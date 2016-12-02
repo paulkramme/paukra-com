@@ -35,7 +35,7 @@ p1 {
 @media (min-width: 40rem) {
   .home {
     height: 100vh;
-    min-height: 600px;
+    min-height: 700px;
   }
   .home-wrapper {
     top: 50%;
