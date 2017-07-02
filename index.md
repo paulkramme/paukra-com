@@ -39,4 +39,4 @@ Seriously, I neither have time nor capacity to download 2MB per site I visit. Th
 and nothing more, and it does not need to do more. It is sufficient. It is easy to edit.
 Why would I want to trade this for a not necessarily better looking site, which takes ages to load,
 is difficult to write and edit and looks different in every browser? This even runs in IE! [Here](http://motherfuckingwebsite.com)
-is a good explanation of what I mean (probably NSFW).
+is a good explanation of what I mean (probably NSFW (swearing... yeah...)).
