@@ -1,5 +1,5 @@
 {
-	"title": "Paul Kramme's Homepage",
+	"title": "Paul Kramme",
 	"sitename": "Homepage"
 }
 # Paul Kramme's Website
@@ -33,3 +33,10 @@ out new things, so they could be integrated into the large ones. For a complete 
 
 ## My servers
 Currently, I have two important servers, a NAS and my main application servers. Both are running FreeBSD.
+
+## Yuck, why does this website look like **this**?!
+Seriously, I neither have time nor capacity to download 2MB per site I visit. This website transfers text,
+and nothing more, and it does not need to do more. It is sufficient. It is easy to edit.
+Why would I want to trade this for a not necessarily better looking site, which takes ages to load,
+is difficult to write and edit and looks different in every browser? This even runs in IE! [Here](http://motherfuckingwebsite.com)
+is a good explanation of what I mean.
