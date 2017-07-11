@@ -7,7 +7,7 @@
 Welcome to Paul Kramme's website.
 
 ## About me
-I am a 17 years old programmer from Hanover, who loves to program, apparently.
+I am a 18 years old programmer from Hanover, who loves to program, apparently.
 I upload my source code to [GitHub](https://github.com/paulkramme) and like
 to try out as much technologies as possible, such as different programming languages,
 techniques, applications, hardware, and much more. My love for computer related topics already
