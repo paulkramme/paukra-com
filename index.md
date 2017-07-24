@@ -31,8 +31,13 @@ and currently the program is rewritten into a server.
 Between and beside this large projects, I managed to build some little things, mostly to test
 out new things, so they could be integrated into the large ones. For a complete list, check out my GitHub profile.
 
-## My servers
-Currently, I have two important servers, a NAS and my main application servers. Both are running FreeBSD.
+## My servers/network
+Currently, I have one important server, which is running FreeBSD. Before that i had more servers, one of them was a IBM xServer 
+3500m2, but this thing draws 140 watts idle, so i shut it down and put everything on a pentium box. There is also one dedicated 
+PFSense router. In the future i'll build:
+1. Appserver with Kabylake Pentium in it  
+2. New router with pfsense 2.4  
+3. Backupserver to which my server backups all files (with BTSOOT)  
 
 ## Yuck, why does this website look like *this*?!
 Seriously, I neither have time nor capacity to download 2MB per site I visit. This website transfers text,
